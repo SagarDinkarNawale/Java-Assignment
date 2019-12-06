@@ -1,0 +1,4 @@
+department_id, department_name
+10, sales_pumps
+20, sales_cables
+30, sales_motors

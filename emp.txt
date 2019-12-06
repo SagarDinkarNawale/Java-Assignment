@@ -1,0 +1,10 @@
+emp_name, department_id
+kishore, 10
+shiva, 20
+ashok, 20
+govind, 10
+shekhar, 30
+robie, 20
+rakesh, 30
+ramesh, 10
+vijay, 30
